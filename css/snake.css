@@ -1,0 +1,38 @@
+*{
+		margin: 0;
+		padding: 0;
+	}
+
+	#wrap{
+		width: 928px;
+   		height: 960px;
+		border:2px solid red;
+		margin: auto;
+		background: white;
+		float: left;
+		}
+	#wrap div{
+		float: left;
+		width: 30px;
+		height: 30px;
+		border: 1px solid rgba(0,0,0,0);
+	}
+	.shead{
+		background: red;
+	}
+	.sbody{
+		background: grey;
+	}
+	.food{
+		background: yellow;
+	}
+	.wark{
+		background: black;
+	}
+	#fen{
+		border: 2px solid black;
+		font-size: 80px;
+		height: 100px;
+		width: 350px;
+		float: left;
+	}
